@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "ls",
+  "keywords": [
+    "2809"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "ls"
+  },
+  "license": "ISC",
+  "author": "marinaweb2022",
+  "type": "commonjs",
+  "main": "cd frontend-project",
+  "scripts": {
+    "test": "touch gendiff.js"
+  }
+}
