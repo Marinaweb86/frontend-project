@@ -1,19 +1,17 @@
 {
-  "name": "@hexlet/code",
+  "name": "gendiff",
   "version": "1.0.0",
-  "description": "ls",
-  "keywords": [
-    "2809"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "ls"
+  "type": "module",
+  "bin": {
+    "gendiff": "./bin/gendiff.js"
   },
-  "license": "ISC",
-  "author": "marinaweb2022",
-  "type": "commonjs",
-  "main": "cd frontend-project",
-  "scripts": {
-    "test": "touch gendiff.js"
+  "dependencies": {
+    "commander": "^11.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
+
+
+ 
