@@ -2,7 +2,9 @@
 
 ## 🎥 Демонстрация работы
 
-[![Demo](https://asciinema.org/a/96b78625-6177-428d-9cea-66256bba4c4b.svg)](https://asciinema.org/a/96b78625-6177-428d-9cea-66256bba4c4b)
+[![ascicast](https://asciinema.org/a/FxvoBKs6H0olTN9Xr4GN54Pta
+.svg)](https://asciinema.org/a/FxvoBKs6H0olTN9Xr4GN54Pta
+)
 
 ### Пример вызова
 ```bash
@@ -18,4 +20,4 @@ gendiff file1.json file2.json
   - timeout: 50
   + timeout: 20
   + verbose: true
-}
+}                                    
