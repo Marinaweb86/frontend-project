@@ -34,3 +34,13 @@ describe('gendiff', () => {
     expect(result).toBe(plainResult);
   });
 });
+
+test('json format with JSON', () => {
+  const result = JSON.parse(gendiff(file1Json, file2Json, 'json'));
+  expect(result).toEqual(expect.arrayContaining([
+    expect.objectContaining({
+      key: expect.any(String),
+      type: expect.stringMatching(/^(added|removed|updated|unchanged|nested)$/)
+    })
+  ]));
+});
