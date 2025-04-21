@@ -12,18 +12,17 @@ npm ci
 ## 🎥 Демонстрация работы
 
 ### 1. SYMPLE 
-[![asciicast](https://asciinema.org/a/FxvoBKs6H0olTN9Xr4GN54Pta.svg)](https://asciinema.org/a/FxvoBKs6H0olTN9Xr4GN54Pta)
+ [![asciicast](https://asciinema.org/a/FxvoBKs6H0olTN9Xr4GN54Pta.svg)](https://asciinema.org/a/FxvoBKs6H0olTN9Xr4GN54Pta)
 
 ### 2. STYLISH Format
  [![asciicast](https://asciinema.org/a/PTEkmL9zWvyBB6QUXPAzr1ciZ.svg)](https://asciinema.org/a/PTEkmL9zWvyBB6QUXPAzr1ciZ)
 
 ### 3. PLAIN Format
  [![ascicast](https://asciinema.org/a/7shFGQFOpsYtkyIYOj0PEdmmd.svg)]
-(https://asciinema.org/a/7shFGQFOpsYtkyIYOj0PEdmmd
-)
+(https://asciinema.org/a/7shFGQFOpsYtkyIYOj0PEdmmd)
 
 ### 4. JSON Format
-[![asciicast](https://asciinema.org/a/k2vvJt9zwN0QCGC8GOlmBZcAi.svg)](https://asciinema.org/a/k2vvJt9zwN0QCGC8GOlmBZcAi)
+ [![asciicast](https://asciinema.org/a/k2vvJt9zwN0QCGC8GOlmBZcAi.svg)](https://asciinema.org/a/k2vvJt9zwN0QCGC8GOlmBZcAi)
 
 ### Пример вызова
 gendiff -h
