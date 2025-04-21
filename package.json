@@ -2,6 +2,7 @@
   "name": "gendiff",
   "version": "1.0.0",
   "type": "module",
+  "author": "Kiryanova Marina",
   "main": "src/index.js",
   "bin": {
     "gendiff": "bin/gendiff.js"
@@ -16,7 +17,7 @@
     "node": ">=14.0.0"
   },
   "scripts": {
-    "test": "jest",
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest",
     "test:coverage": "jest --coverage",
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
@@ -26,5 +27,13 @@
     "collectCoverageFrom": [
       "src/**/*.js"
     ]
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.27.0",
+    "@babel/preset-env": "^7.26.9",
+    "@eslint/js": "^9.24.0",
+    "eslint": "^8.56.0",
+    "eslint-plugin-import": "^2.31.0",
+    "jest": "^29.7.0"
   }
 }

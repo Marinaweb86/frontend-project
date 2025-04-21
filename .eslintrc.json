@@ -1,0 +1,19 @@
+{
+  "parser": "@babel/eslint-parser",
+  "parserOptions": {
+    "requireConfigFile": false,
+    "babelOptions": {
+      "presets": ["@babel/preset-env"]
+    },
+    "ecmaVersion": 2022,
+    "sourceType": "module"
+  },
+  "plugins": ["import"],
+  "env": {
+    "node": true,
+    "es2021": true
+  },
+  "rules": {
+    "import/no-unresolved": "error"
+  }
+}
