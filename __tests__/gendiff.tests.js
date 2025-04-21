@@ -11,7 +11,7 @@ const readFixture = (filename) => readFileSync(getFixturePath(filename), 'utf-8'
 const file1Json = getFixturePath('file1.json');
 const file2Json = getFixturePath('file2.json');
 const file1Yml = getFixturePath('file1.yml');
-const file2Yml = getFixturePath('file2.yml');
+const file2Yaml = getFixturePath('file2.yaml');
 const stylishResult = readFixture('resultStylish.txt');
 const plainResult = readFixture('resultPlain.txt');
 
