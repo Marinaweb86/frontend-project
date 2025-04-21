@@ -1,7 +1,7 @@
 # frontend-project
 
 # Gendiff
-![ESLint](https://qlty.sh/gh/Marinaweb86/projects/frontend-project/workflows/nodejs.yml/badge.svg)  
+![ESLint Status](https://github.com/Marinaweb86/frontend-project/workflows/CI/badge.svg?branch=main&event=push)  
 [![Maintainability](https://qlty.sh/badges/291e0b7f-a3f4-42ca-a436-8fb27a13b773/maintainability.svg)](https://qlty.sh/gh/Marinaweb86/projects/frontend-project)   
 [![Code Coverage](https://qlty.sh/badges/291e0b7f-a3f4-42ca-a436-8fb27a13b773/test_coverage.svg)](https://qlty.sh/gh/Marinaweb86/projects/frontend-project)    
 
@@ -12,18 +12,18 @@ npm ci
 ## 🎥 Демонстрация работы
 
 ### 1. SYMPLE 
-[![asciicast](https://asciinema.org/a/FxvoBKs6H0olTN9Xr4GN54Pta)](https://asciinema.org/a/FxvoBKs6H0olTN9Xr4GN54Pta)
+[![asciicast](https://asciinema.org/a/FxvoBKs6H0olTN9Xr4GN54Pta.svg)](https://asciinema.org/a/FxvoBKs6H0olTN9Xr4GN54Pta)
 
 ### 2. STYLISH Format
- [![asciicast](https://asciinema.org/a/PTEkmL9zWvyBB6QUXPAzr1ciZ)](https://asciinema.org/a/PTEkmL9zWvyBB6QUXPAzr1ciZ)
+ [![asciicast](https://asciinema.org/a/PTEkmL9zWvyBB6QUXPAzr1ciZ.svg)](https://asciinema.org/a/PTEkmL9zWvyBB6QUXPAzr1ciZ)
 
 ### 3. PLAIN Format
- [![ascicast](https://asciinema.org/a/7shFGQFOpsYtkyIYOj0PEdmmd
-.svg)](https://asciinema.org/a/7shFGQFOpsYtkyIYOj0PEdmmd
+ [![ascicast](https://asciinema.org/a/7shFGQFOpsYtkyIYOj0PEdmmd.svg)]
+(https://asciinema.org/a/7shFGQFOpsYtkyIYOj0PEdmmd
 )
 
 ### 4. JSON Format
-[![asciicast](https://asciinema.org/a/k2vvJt9zwN0QCGC8GOlmBZcAi)](https://asciinema.org/a/k2vvJt9zwN0QCGC8GOlmBZcAi)
+[![asciicast](https://asciinema.org/a/k2vvJt9zwN0QCGC8GOlmBZcAi.svg)](https://asciinema.org/a/k2vvJt9zwN0QCGC8GOlmBZcAi)
 
 ### Пример вызова
 gendiff -h
