@@ -1,9 +1,10 @@
 # frontend-project
 
 # Gendiff
-![ESLint Status](https://github.com/Marinaweb86/frontend-project/workflows/CI/badge.svg?branch=main&event=push)  
+![ESLint](https://github.com/Marinaweb86/frontend-project/workflows/CI/badge.svg?branch=main&event=push&job=lint)
+![Coverage](https://qlty.sh/gh/Marinaweb86/frontend-project/badge/coverage?token=${{ secrets.QLTY_COVERAGE_TOKEN }})
 [![Maintainability](https://qlty.sh/badges/291e0b7f-a3f4-42ca-a436-8fb27a13b773/maintainability.svg)](https://qlty.sh/gh/Marinaweb86/projects/frontend-project)   
-[![Code Coverage](https://qlty.sh/badges/291e0b7f-a3f4-42ca-a436-8fb27a13b773/test_coverage.svg)](https://qlty.sh/gh/Marinaweb86/projects/frontend-project)    
+   
 
 ## Установка
 npm ci  
