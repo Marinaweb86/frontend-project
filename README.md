@@ -20,7 +20,7 @@ npm ci
  [![asciicast](https://asciinema.org/a/PTEkmL9zWvyBB6QUXPAzr1ciZ.svg)](https://asciinema.org/a/PTEkmL9zWvyBB6QUXPAzr1ciZ)
 
 ### 3. PLAIN Format
- [![ascicast](https://asciinema.org/a/7shFGQFOpsYtkyIYOj0PEdmmd.svg)]
+ [![asciicast](https://asciinema.org/a/7shFGQFOpsYtkyIYOj0PEdmmd.svg)]
 (https://asciinema.org/a/7shFGQFOpsYtkyIYOj0PEdmmd)
 
 ### 4. JSON Format
