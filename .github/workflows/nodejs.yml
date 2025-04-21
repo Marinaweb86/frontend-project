@@ -11,7 +11,7 @@ jobs:
         with:
           node-version: '20'
       - run: npm ci
-      - run: npx eslint . --format github-actions
+      - run: npx eslint .
   test:
     needs: lint
     runs-on: ubuntu-latest
